@@ -23,3 +23,8 @@
 10. 구름 Sans 웹 폰트를 사용하여 텍스트 스타일링을 적용합니다.
 11. 반응형 디자인을 적용하여 페이지가 모든 디바이스에서 잘 보이도록 합니다.
 12. 페이지의 전체적인 디자인과 레이아웃을 최종 조정합니다.
+
+## 구현 화면
+<div align="center">
+ <img src="https://github.com/Kyumin-Chang/resume-by-html-css/assets/59830968/f3df397f-ad6f-4587-83aa-a2ba059b76e7" width=40%>
+</div>
