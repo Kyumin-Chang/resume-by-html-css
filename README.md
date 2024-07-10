@@ -26,5 +26,7 @@
 
 ## 구현 화면
 <div align="center">
- <img src="https://github.com/Kyumin-Chang/resume-by-html-css/assets/59830968/f3df397f-ad6f-4587-83aa-a2ba059b76e7" width=40%>
+ <img width="650" alt="스크린샷 1" src="https://github.com/Kyumin-Chang/to-do-list-by-html-css-js/assets/59830968/f86698aa-71ca-4611-a2d4-e6a32a52cf68">
+ <img width="650" alt="스크린샷 2" src="https://github.com/Kyumin-Chang/to-do-list-by-html-css-js/assets/59830968/c3f1e053-14a3-427d-a522-126c103706c8">
+ <img width="650" alt="스크린샷 3" src="https://github.com/Kyumin-Chang/to-do-list-by-html-css-js/assets/59830968/7fcd7bb3-e335-495c-a5ac-824ff35ce395">
 </div>
